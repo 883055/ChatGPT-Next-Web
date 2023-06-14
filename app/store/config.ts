@@ -61,11 +61,19 @@ export const ALL_MODELS = [
     available: ENABLE_GPT4,
   },
   {
+    name: "gpt-4-16k",
+    available: ENABLE_GPT4,
+  },
+  {
+    name: "gpt-4--16k-0613",
+    available: ENABLE_GPT4,
+  },
+  {
     name: "gpt-4-32k",
     available: ENABLE_GPT4,
   },
   {
-    name: "gpt-4-32k-0314",
+    name: "gpt-4-32k-0613",
     available: ENABLE_GPT4,
   },
   {
